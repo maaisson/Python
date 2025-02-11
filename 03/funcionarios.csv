@@ -1,0 +1,21 @@
+ID,NOME,CARGO,DEPARTAMENTO,SALARIO,DATA_CONTRATACAO,EMAIL,CIDADE,ESTADO,AVALIACAO
+1,João Silva,Analista,TI,5500.00,2019-03-15,joao.silva@email.com,São Paulo,SP,8.5
+2,Maria Santos,Gerente,RH,8500.00,2018-06-22,maria.santos@email.com,Rio de Janeiro,RJ,9.0
+3,Pedro Oliveira,Desenvolvedor,TI,6200.00,2020-01-10,pedro.oliv@email.com,Curitiba,PR,7.8
+4,Ana Costa,Coordenador,Marketing,7300.00,2017-11-30,ana.costa@email.com,Belo Horizonte,MG,8.7
+5,Lucas Ferreira,Analista,Financeiro,4800.00,2021-04-05,lucas.f@email.com,Salvador,BA,7.5
+6,Julia Martins,Designer,Marketing,4500.00,2020-08-15,julia.m@email.com,Porto Alegre,RS,8.2
+7,Carlos Santos,Desenvolvedor,TI,6500.00,2019-07-20,carlos.s@email.com,Recife,PE,8.9
+8,Beatriz Lima,Analista,RH,4700.00,2021-02-28,beatriz.l@email.com,Fortaleza,CE,7.7
+9,Rafael Souza,Gerente,Vendas,9000.00,2017-05-12,rafael.s@email.com,Brasília,DF,9.2
+10,Amanda Pereira,Analista,Marketing,5100.00,2020-11-08,amanda.p@email.com,São Paulo,SP,8.1
+11,Fernando Costa,Desenvolvedor,TI,6800.00,2018-09-25,fernando.c@email.com,Curitiba,PR,8.4
+12,Patricia Alves,Coordenador,Financeiro,7100.00,2019-12-03,patricia.a@email.com,Rio de Janeiro,RJ,8.8
+13,Bruno Santos,Designer,Marketing,4600.00,2021-01-15,bruno.s@email.com,Salvador,BA,7.9
+14,Camila Rocha,Analista,RH,4900.00,2020-06-30,camila.r@email.com,Belo Horizonte,MG,8.0
+15,Diego Lima,Gerente,TI,8800.00,2017-08-18,diego.l@email.com,Porto Alegre,RS,9.1
+16,Laura Oliveira,Analista,Vendas,5300.00,2019-10-22,laura.o@email.com,Recife,PE,8.3
+17,Thiago Silva,Desenvolvedor,TI,6400.00,2020-03-07,thiago.s@email.com,Fortaleza,CE,8.6
+18,Mariana Santos,Coordenador,RH,7000.00,2018-04-14,mariana.s@email.com,Brasília,DF,8.9
+19,Gabriel Martins,Analista,Financeiro,5200.00,2021-05-20,gabriel.m@email.com,São Paulo,SP,7.6
+20,Carolina Costa,Designer,Marketing,4700.00,2020-07-11,carolina.c@email.com,Rio de Janeiro,RJ,8.2
